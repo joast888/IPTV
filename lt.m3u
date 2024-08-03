@@ -87,3 +87,13 @@ http://20.254.1.9:80/PLTV/88888888/224/3221225652/100001000000000600000000000124
 http://20.254.1.9:80/PLTV/88888888/224/3221225638/10000100000000060000000000012455_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EoUwUiZvPSKiWNXmwkRVJeQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1377%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000012455_0%2CEND
 #EXTINF:-1,tvg-id="TV5MONDE STYLE HD 生活时尚" tvg-name="TV5MONDE STYLE HD 生活时尚" tvg-logo="https://epg.v1.mk/logo/TV5MONDE STYLE HD 生活时尚.png" group-title="其他",生活时尚
 http://20.254.1.9:80/PLTV/88888888/224/3221225629/10000100000000060000000000012790_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ECMzlPkB8m8WBzUITRwfkKw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1313%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv16-高码
+http://192.168.99.99:35455/ysptp/cctv16.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16
+http://192.168.99.99:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16-4K-HEVC
+http://192.168.99.99:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k_10m
+http://192.168.99.99:35455/ysptp/cctv4k16_10m.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k
+http://192.168.99.99:35455/ysptp/cctv4k16.m3u8
